@@ -1,0 +1,2 @@
+#!/bin/bash
+cp /root/tmp/betty /root/tmp/my_first_directory
