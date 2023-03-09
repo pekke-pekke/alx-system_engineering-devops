@@ -1,0 +1,3 @@
+#!/bin/bash
+#print absolute path name
+pwd
